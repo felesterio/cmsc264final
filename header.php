@@ -19,7 +19,7 @@ session_start();
     <!--lg= large screens-->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <a class="header-logo" href ="index.php">
-        <img src="cmsc264final/img/logo.png" alt="logo" height="80px" width="100px">
+        <img src="img/logo.png" alt="logo" height="80px" width="100px">
       </a>
       <!--hamburger icon collapse on smaller screens-->
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
